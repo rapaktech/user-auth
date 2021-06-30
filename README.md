@@ -1,0 +1,1 @@
+# A simple user authentication using 'session' in PHP.
